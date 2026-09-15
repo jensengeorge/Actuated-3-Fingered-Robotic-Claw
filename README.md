@@ -1,4 +1,4 @@
-# 3-Finger Dexterous Robotic Gripper
+# Actuated 3-Fingered Robotic Claw
 
 **Project Lead:** Jensen George  
 **Organization:** Open Droids  
