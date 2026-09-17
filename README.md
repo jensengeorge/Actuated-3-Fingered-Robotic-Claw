@@ -5,7 +5,7 @@
 **Role:** Mechanical Engineering Intern  
 **Project Type:** Robotics Development Project
 
-Led the development of a **3-finger dexterous robotic gripper** at Open Droids, collaborating with two fellow engineering interns throughout system integration, controls development, prototyping, and testing.
+Led the development of an **actuated 3-fingered robotic claw** at Open Droids, collaborating with two fellow engineering interns throughout system integration, controls development, prototyping, and testing.
 
 I independently designed the **complete mechanical CAD assembly and every custom component within it**, including a custom **tri-axis rack-and-pinion actuation mechanism** developed to translate a single actuation input into coordinated motion across all three fingers.
 
